@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Endlesse queries: or An end to queries laid down in 36 merry mad queries for the peoples information.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84427</idno>
+            <idno type="STC">Wing E729</idno>
+            <idno type="STC">Thomason E986_10</idno>
+            <idno type="STC">ESTC R207777</idno>
+            <idno type="EEBO-CITATION">99866808</idno>
+            <idno type="PROQUEST">99866808</idno>
+            <idno type="VID">119094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Endlesse queries: or An end to queries laid down in 36 merry mad queries for the peoples information.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119094:1"/>
+            <p>
+               <hi>ENDLESSE Q<g ref="char:V">Ʋ</g>ERIES:</hi> OR AN END to QUERIES, Laid down in 36 Merry Mad QUERIES for the Peoples Information.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed in the Year 1659. <add>June 13</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119094:2"/>
+            <head>ENDLESS QUERIES: OR <hi>An End to Q<g ref="char:V">Ʋ</g>ERIES,</hi> Laid down in 36 merry mad Queries for the Peoples Information.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hether Fools may not ask more Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtions in an hour; then Wiſe men ſhall be able to anſwer in a year?</p>
+            <p n="2">2. Whether it be not needful to ſuffer ſuch fooliſh papers to fly abroad, whereby thouſands of people that have little elſe to do, get a livelihoood for themſelves and Families.</p>
+            <p n="3">3. Whether it is not the beſt way to keep them from mutinies to let them live by their wits, who other<g ref="char:EOLhyphen"/>wiſe muſt Camelion like, live by the Air.</p>
+            <p n="4">4. Whether the great Law of Neceſſity be not now as great as ever it was.</p>
+            <p n="5">5. Whether, if the ſafety of the people be the ſu<g ref="char:EOLhyphen"/>preme Law, any private ſubject my not do the beſt he can to promote it, in order to ſelf preſervation.</p>
+            <p n="6">6. Whether the huge Whale that came hither from <hi>Greenland,</hi> did not come with a good intent to bring all the <hi>Greenland</hi> trade hither; and whether <hi>Hance</hi> would have been pleaſed to have paid us tribute to have fiſhed for Whales upon our coaſts, and whether they are not reſponſible to the Common-wealth for it, that ſo bar<g ref="char:EOLhyphen"/>barouſly murdered him.</p>
+            <p n="7">7. Whether it were not better to pull <hi>Pauls</hi> down for fear it may fall upon the Souldiers heads that keep guards there for the publick ſafety, than to let it ſtand for Crows and Rooks, and lack Daws, to build their
+<pb n="3" facs="tcp:119094:2"/> neſts in; which by their continual Cawing pleaſe the Cities well tuned ears, better then the Muſick of the Organs? eſpecially being aſſiſted by the perpetual Cackling of the Herb-women, who were brought thi<g ref="char:EOLhyphen"/>ther at firſt to ſtrew herbs at <hi>Pauls</hi> Funeral.</p>
+            <p n="8">8. Whether the conſtant increaſe of buildings ſo wide next the City, creeping farther and farther, do not make many men to believe that the City is ready al<g ref="char:EOLhyphen"/>moſt to take a journey into the Country, and therefore it will be very neceſſary to build about it as faſt as we can to keep it in?</p>
+            <p n="9">9. Whether it be not requiſite that Printers and Sta<g ref="char:EOLhyphen"/>tioners, that their trades may not decay, ſhould hire the Univerſities to keep them from Idleneſs the next long Vacation to pen ſome learned Commentaries upon the famous Hiſtory of <hi>Tom Thumb,</hi> Dr. <hi>Fauſtus, Guy</hi> of <hi>Warwick, Robin Goodfellow,</hi> the <hi>Pigmies,</hi> the <hi>Queen of Farios,</hi> and many more ſuch gallant pieces of Art, that are frequently read amongſt us, thereby to unde<g ref="char:EOLhyphen"/>ceive the good people of the Land, who are as confi<g ref="char:EOLhyphen"/>dent of their truth, as if all were Goſpel and ſo blin<g ref="char:EOLhyphen"/>ded in their ignorance, notwith<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anding all the great Lights that have been ſo lately ſet up.</p>
+            <p n="10">10. Whether the Houſe of Lords, Houſe of Peers, the upper Houſe, the other Houſe, the under Houſe, ſome Houſe, or no Houſe, had not the unhappy chance at firſt to be built upon Fairy ground; and whether it were not expedient to ſend for <hi>Ralph Unner</hi> from <hi>Yar<g ref="char:EOLhyphen"/>mouth</hi> to ſhew ſome of his Art, who hanged the Devil by the noſe with his male ſpicker at <hi>Rootam</hi> in <hi>Kent,</hi> and ſo the place hath never been haunted ſince?</p>
+            <p n="11">11. Whether the learned Colledge of Phyſitians, if they be not too full of practiſe, ſhould not do a good act to meet and examine, Whether Coffee, Sherbet,
+<pb n="4" facs="tcp:119094:3"/> that came from <hi>Turky,</hi> Chocolate much uſed by the Jews, Broſa by the Muſcovites, <hi>Ta</hi> and <hi>Tee,</hi> and ſuch other new fangled drinks, will agree with the Conſti<g ref="char:EOLhyphen"/>tutions of our <hi>Engliſh</hi> Bodies.</p>
+            <p n="12">12. Whether if the Lawyers ſhould fail, it were not a good Employment to ſet them on work, to make an expoſition of many hard words of new Inventions, as Delinquents, Malignants, Juncture of time, and the like, which the people do not yet fully underſtand?</p>
+            <p n="13">13. Whether the Citizens Wives that humbly pre<g ref="char:EOLhyphen"/>ſented their Petition for want of trading, Mrs. <hi>Stag</hi> be<g ref="char:EOLhyphen"/>ing in the head of them, have yet reaped the fruits of what they petitioned for, according as a worthy mem<g ref="char:EOLhyphen"/>ber then promiſed they ſhould, bidding them go home to their Houſes, and he would provide they ſhould have trading enough?</p>
+            <p n="14">14. Whether thoſe that are commonly called the Cavalier party, be not the moſt dunſtical and ſtupid Aſſes in the World, excepting ſome few of them that have been riper witted than the reſt, who being ſo often whipp'd a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pull'd by the ears, plundered and impriſoned for ſinging out of Tune, could never per<g ref="char:EOLhyphen"/>fectly learn any new Note yet; and whether it be not far better for them to hold their tougnes and not ſing at all, as they are at length contented to do, than to hin<g ref="char:EOLhyphen"/>der the ſweet Harmony of the times with their harſh Notes, beings it is now apparent enough they have not brains to underſtand it; and whether it will not be ſhame enough for them to ſtand upon Record to poſterity, for oppoſing the people in their ſpiritual and civil freedome which they have promiſed them without Law or Goſpel.</p>
+            <p n="15">15. Whether thoſe that petition that they may pay
+<pb n="5" facs="tcp:119094:3"/> no Tithes, do not give other men a fair preſident to petition that they may pay no debts?</p>
+            <p n="16">16. Whether thoſe that preſs ſo much to aboliſh good Laws, do not implicitely plead guilty, as fearing one day to be tryed by them?</p>
+            <p n="17">17. W. Many Church men that are allowed a fift part by act of Paliament, may not ſet it into their Inventary, and ſay as the <hi>Welſhman</hi> did, for Crows and Robin run ith' hole, all her none goods when her can eatch her?</p>
+            <p n="18">18. Whether when Church-lands are to be ſold the Church of <hi>Rome,</hi> having ſo clear a title before the firſt Reformation, be not as free as any other can be for her money to purchaſe them again?</p>
+            <p n="19">19. Whether thoſe that have got other Mens Cows or Oxen do not do wiſely to clap a hot loaff out of the Oven upon their horns, to wreſt the horns ano<g ref="char:EOLhyphen"/>ther way, that the owner may not be able to know his own beaſt?</p>
+            <p n="20">20. Whether he that ſtole a horſe with a cut ta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and faſtned another tail to his rump, being purſued by the owner, did not put a handſome cheat upon him; for when he began to tax him for the horſe, ſaying he would ſwear that it was his horſe, were it not for his long tail, the Theif fear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to be diſcovered, clapt his hand upon the place where the falſe tail was ſet on, and with his knife dock'd the horſe higher then he had been before, and then boldly replyed, ſee how her hath a ſhort tail, let her challenge her if her dare; thus the owner never durſt lay any farther claim to his own horſe?</p>
+            <p n="21">21. Whether the Proverb be true, that an <hi>Engliſhman,</hi> by his continual ſtirring of the Fire, ſhews that he ne<g ref="char:EOLhyphen"/>ver knows when a thing is well?</p>
+            <p n="22">22. Whether it were not fitting to take down all our
+<pb n="6" facs="tcp:119094:4"/> Bells in Churches, that the <hi>Engliſh</hi> who are, ſo much given to ring the Changes, may have no farther oppor<g ref="char:EOLhyphen"/>tunity to ring the Changes any more?</p>
+            <p n="22">22. Whether if <hi>Dunkirk</hi> could be brought over by by night, and ſet upon the <hi>Engliſh</hi> Shore, the <hi>Spaniard</hi> when he ſhould miſs it, would not wonder what was be<g ref="char:EOLhyphen"/>come of it; and if he ſhould be jealous that the <hi>French</hi> had a hand in it, it might not give occaſion to the break<g ref="char:EOLhyphen"/>ing off the Match?</p>
+            <p n="23">23. Whether Mrs. <hi>Mary Frith,</hi> commonly called by ſome <hi>Mall Cut-purſe,</hi> having formerly done ſo good ſervice at the <hi>Bear, Garden,</hi> and many other things for the good of the Nation, being now aged and having no children of her own body lawfully begotten, as ever I heard of, might not do a pious Act to appoint one to ſucceed her to help the people to their purſes again when ſhe is gone?</p>
+            <p n="25">25. VVhether the Stage-players being turned out of dores, cannot, to get their livings, in imitation of the <hi>Opera,</hi> ſet up dumb Muſick, and inſtead of black patches ſmut Ladies in their faces that ſhall not ob<g ref="char:EOLhyphen"/>ſerve their part they are to play, according to the wiſ<g ref="char:EOLhyphen"/>dome of the Ancients.</p>
+            <p n="26">26. VVhether <hi>Colbron</hi> and his fellow <hi>Giant,</hi> having for ſo many years in <hi>Guildhall</hi> ſhewed themſelves to be faithful Guardians to the City priviledges, and being now little regarded, and grown over with duſt and cob<g ref="char:EOLhyphen"/>webs, ought not for their good ſervice to be rewarded, and a winter and ſummer ſuit yearly to be allowed them with Points and Ribbons, and all other trimming with gold and ſilver lace; and whether all the poor Taylors of the City who want work, ought not forth with to Petition, that they may be employed to take meaſure of them, and the Armourers appointed to make
+<pb n="7" facs="tcp:119094:4"/> them new Coats of Arms that ſhall be Canon proof a<g ref="char:EOLhyphen"/>gainſt all hoſtile invaſion, for defence of the City.</p>
+            <p n="28">28. Whether if General <hi>Laſhley</hi> wearing a ſilver Heel ſo long, have any Children of his own, it may not ſtand with ſome reaſon that they ſhould be all born with ſilver Heels?</p>
+            <p n="29">29. Whether this Nation doth not for all their tea<g ref="char:EOLhyphen"/>ching, grow yet more dul of apprehenſion than ever they were; and whether if all the confiding men ſhould ſhake never ſo many Rings in the Pulpits, to perſwade them to bring in their Plate and Jewels, Bodkins and Thimbles, they were able to underſtand it?</p>
+            <p n="29">29. Whether it were not great wiſdome for the Na<g ref="char:EOLhyphen"/>tion to make ſome ſerious tryal of the skill and inte<g ref="char:EOLhyphen"/>grity of our Aſtrologers, who have ſpoken high for their Art a long time; and to call all the Stargazers und Monethly Prognoſticators together, and to deſire them to reſolve that great queſtion Mr. <hi>William Lilly</hi> could never yet do? <hi>Who it was that ſh— at his dore?</hi>
+            </p>
+            <p n="30">30. Whether it would not be a great eaſe to the people, and great profit to the Labourers, to cut ſome grafts in our Streets after the <hi>Holland</hi> mode, and all Tankard bearers to be hired to fil them with water, that ſo we might paſs nimbly about our occaſions, and not ſpend ſo much Shooe-leather, though all the Shooe<g ref="char:EOLhyphen"/>makers and Coblers ſhould repine at it, who know well enough that the hard ſtones and dirty ſtreets will wear out ſhooes faſter than the common people can get money to pay for them?</p>
+            <p n="31">31. Whether the Wolves being all formerly de<g ref="char:EOLhyphen"/>ſtroyed here, ſome new ones might not be admitted probationers again, and be very much civilized, if the <hi>Quakers</hi> might have the tutoring of them?</p>
+            <p n="32">32. Whether Maids do not now adays complain as
+<pb n="8" facs="tcp:119094:5"/> they did in old time, that the Fairies in the night come and pinch their arms and thighs, though all places are ſo well guarded?</p>
+            <p n="33">33. VVhether <hi>Pimp VVhiskin, Prick me dainty,</hi> the <hi>Fiery Frigot,</hi> and many more of that noble ſcience, be not very uſeful in all Countries, and moſt beneficial to all the followers of <hi>Eſculapius?</hi>
+            </p>
+            <p n="34">34. Whether the Criple of <hi>Cornhill,</hi> who is reported to have clambered up to the top of the Spire of <hi>Pauls ſteeple,</hi> and brought down the golden VVeathercock at his back, on the outſide of the Church, by means of iron claws upon his hands, and points of iron upon his feet, though he did commit ſacriledge in doing it, by venturing his life for it, did not deſerve to have it free<g ref="char:EOLhyphen"/>ly given him for his pains?</p>
+            <p n="35">35. VVhether <hi>Edward</hi> the Confeſſor who ſtands firſt in order upon the Royal Exchange with his Bible in one hand, and his ſtaff in the other, with a Crown upon his head, did not do more good for the Nation then all the Conquerors ever ſince with their ſwords and ſpears, and battle axes? and whether the greateſt liberty we pretend to, be not by vertue of <hi>Magna charta</hi> received from him, and whether ſome worthy having a double capacity as he had, may not be admitted to rule over us, nor can be thought to be excepted by the Act a<g ref="char:EOLhyphen"/>gainſt Kingſhip and a ſingle perſon, ſince it will be ex<g ref="char:EOLhyphen"/>ceeding hard ever to obtain a perfect peace, unleſs there may be one found who ſhall be an indifferent Judge be<g ref="char:EOLhyphen"/>tween the Clergy and the Laitly.</p>
+            <p n="36">36. VVhether it be not ſtrange news that the <hi>En<g ref="char:EOLhyphen"/>gliſh men</hi> have almoſt all loſt their way in their own Country? and whether the ſeveral guides they choſe to direct them, have not brought them into a wood that they have now work enough to enquire one of another how to find the way out.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
